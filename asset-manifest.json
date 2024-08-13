@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/cv-digital/static/css/main.bbd8a4a3.css",
-    "main.js": "/cv-digital/static/js/main.58879e73.js",
-    "static/media/informatique.jpg": "/cv-digital/static/media/informatique.93a62abd0c77ad3e9ebc.jpg",
-    "static/media/home_bg.jpg": "/cv-digital/static/media/home_bg.cbd3a69c482cdb0d8689.jpg",
-    "static/media/WebDev.png": "/cv-digital/static/media/WebDev.e4e5d2479a69deec874c.png",
-    "static/media/podium_france.jpg": "/cv-digital/static/media/podium_france.683db69b76e95af5c4ca.jpg",
-    "static/media/archi_sys.png": "/cv-digital/static/media/archi_sys.942c96e2e60491cda5ed.png",
-    "static/media/medal_france.jpg": "/cv-digital/static/media/medal_france.a74c2f65cbfeec00b062.jpg",
-    "static/media/about_bg.svg": "/cv-digital/static/media/about_bg.ec1c6dfb07a9edfc3071.svg",
+    "main.css": "/cv-digital/static/css/main.d21aefd0.css",
+    "main.js": "/cv-digital/static/js/main.a6ddeb6e.js",
+    "static/js/453.41d2d080.chunk.js": "/cv-digital/static/js/453.41d2d080.chunk.js",
+    "static/media/home_bg.svg": "/cv-digital/static/media/home_bg.0caf9689ff0abfac3c4c.svg",
     "index.html": "/cv-digital/index.html",
-    "main.bbd8a4a3.css.map": "/cv-digital/static/css/main.bbd8a4a3.css.map",
-    "main.58879e73.js.map": "/cv-digital/static/js/main.58879e73.js.map"
+    "main.d21aefd0.css.map": "/cv-digital/static/css/main.d21aefd0.css.map",
+    "main.a6ddeb6e.js.map": "/cv-digital/static/js/main.a6ddeb6e.js.map",
+    "453.41d2d080.chunk.js.map": "/cv-digital/static/js/453.41d2d080.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbd8a4a3.css",
-    "static/js/main.58879e73.js"
+    "static/css/main.d21aefd0.css",
+    "static/js/main.a6ddeb6e.js"
   ]
 }
