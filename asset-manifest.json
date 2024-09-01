@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/cv-digital/static/css/main.cd32a822.css",
-    "main.js": "/cv-digital/static/js/main.5cb6860b.js",
+    "main.css": "/cv-digital/static/css/main.65bf6c2c.css",
+    "main.js": "/cv-digital/static/js/main.1f83b82a.js",
     "static/js/453.41d2d080.chunk.js": "/cv-digital/static/js/453.41d2d080.chunk.js",
+    "static/media/huitre-le-gall.jpg": "/cv-digital/static/media/huitre-le-gall.713b908988383ff157ff.jpg",
+    "static/media/fraises-le-bot.jpeg": "/cv-digital/static/media/fraises-le-bot.6bbf55d5fc21a410454e.jpeg",
+    "static/media/bbn.png": "/cv-digital/static/media/bbn.0266659901470214883f.png",
     "static/media/home_bg.svg": "/cv-digital/static/media/home_bg.0caf9689ff0abfac3c4c.svg",
     "index.html": "/cv-digital/index.html",
-    "main.cd32a822.css.map": "/cv-digital/static/css/main.cd32a822.css.map",
-    "main.5cb6860b.js.map": "/cv-digital/static/js/main.5cb6860b.js.map",
+    "main.65bf6c2c.css.map": "/cv-digital/static/css/main.65bf6c2c.css.map",
+    "main.1f83b82a.js.map": "/cv-digital/static/js/main.1f83b82a.js.map",
     "453.41d2d080.chunk.js.map": "/cv-digital/static/js/453.41d2d080.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd32a822.css",
-    "static/js/main.5cb6860b.js"
+    "static/css/main.65bf6c2c.css",
+    "static/js/main.1f83b82a.js"
   ]
 }
