@@ -5,9 +5,20 @@ import animation from "../../animations/contact-animation.json";
 
 export default function Contact() {
   return (
+<<<<<<< HEAD
     <div id="banner">
     <main>
       
+=======
+<<<<<<< HEAD
+    <div id="banner">
+    <main>
+      
+=======
+    <main>
+      <div id="banner"></div>
+>>>>>>> origin/master
+>>>>>>> 4cdb3a9bb91c8646e60afdc595969589b4b944a9
       <h1 className="text-center my-4">Contactez-moi</h1>
       <Container>
         <Row>
@@ -34,8 +45,18 @@ export default function Contact() {
        
        
       </Container>
+<<<<<<< HEAD
       
     </main>
     </div>
+=======
+<<<<<<< HEAD
+      
+    </main>
+    </div>
+=======
+    </main>
+>>>>>>> origin/master
+>>>>>>> 4cdb3a9bb91c8646e60afdc595969589b4b944a9
   );
 }

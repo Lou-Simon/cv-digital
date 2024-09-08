@@ -12,6 +12,10 @@
 
 #banner {
   z-index: -1000;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 4cdb3a9bb91c8646e60afdc595969589b4b944a9
   width: 100%;
   min-height: 100vh;
   background: url(./images/home_bg.svg);
@@ -71,3 +75,27 @@ footer {
   height: 200px; 
   object-fit: cover;
 }
+<<<<<<< HEAD
+=======
+=======
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100vh;
+  background: url(./images/home_bg.svg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+main {
+  padding: 8em 0 2em;
+  min-height: 100vh;
+}
+
+footer {
+  background-color: var(--bg-color);
+}
+>>>>>>> origin/master
+>>>>>>> 4cdb3a9bb91c8646e60afdc595969589b4b944a9
