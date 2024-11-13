@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/cv-digital/static/css/main.65bf6c2c.css",
-    "main.js": "/cv-digital/static/js/main.d188e8e2.js",
+    "main.js": "/cv-digital/static/js/main.27daa382.js",
     "static/js/453.41d2d080.chunk.js": "/cv-digital/static/js/453.41d2d080.chunk.js",
+    "static/media/wing.jpg": "/cv-digital/static/media/wing.01d495700a0d5533cc9c.jpg",
     "static/media/huitre-le-gall.jpg": "/cv-digital/static/media/huitre-le-gall.713b908988383ff157ff.jpg",
+    "static/media/cata.jpg": "/cv-digital/static/media/cata.94b14ddb88b889466d16.jpg",
     "static/media/fraises-le-bot.jpeg": "/cv-digital/static/media/fraises-le-bot.6bbf55d5fc21a410454e.jpeg",
+    "static/media/medal_france.jpg": "/cv-digital/static/media/medal_france.a74c2f65cbfeec00b062.jpg",
     "static/media/bbn.png": "/cv-digital/static/media/bbn.0266659901470214883f.png",
     "static/media/home_bg.svg": "/cv-digital/static/media/home_bg.0caf9689ff0abfac3c4c.svg",
     "index.html": "/cv-digital/index.html",
     "main.65bf6c2c.css.map": "/cv-digital/static/css/main.65bf6c2c.css.map",
-    "main.d188e8e2.js.map": "/cv-digital/static/js/main.d188e8e2.js.map",
+    "main.27daa382.js.map": "/cv-digital/static/js/main.27daa382.js.map",
     "453.41d2d080.chunk.js.map": "/cv-digital/static/js/453.41d2d080.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65bf6c2c.css",
-    "static/js/main.d188e8e2.js"
+    "static/js/main.27daa382.js"
   ]
 }
