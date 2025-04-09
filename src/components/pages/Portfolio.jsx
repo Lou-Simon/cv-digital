@@ -16,8 +16,24 @@ export default function Portfolio() {
     },
     { 
       title: "Application de réservation de films",
-      status: "dev",
+      status: "termine",
       href: "https://github.com/Lou-Simon/PopCode",
+      languages: ['Java'],
+      devTools: ['Eclipse', 'Git'],
+      frameworks: []
+    },
+    { 
+      title: "Projet d'optimisation de placement d'antennes",
+      status: "termine",
+      href: "https://github.com/Lou-Simon/Antennes_OPL",
+      languages: ['Java'],
+      devTools: ['Eclipse', 'Git'],
+      frameworks: []
+    },
+    { 
+      title: "Projet d'une application PixelWar",
+      status: "termine",
+      href: "https://github.com/Lou-Simon/Popcode",
       languages: ['Java'],
       devTools: ['Eclipse', 'Git'],
       frameworks: []
