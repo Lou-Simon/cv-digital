@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Header from './components/Header';
 import Home from './pages/Home';
 import Competences from './pages/Competences';
@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <div className="d-flex flex-column min-vh-100 w-100" style={{ position: 'relative', overflowX: 'hidden' }}>
         {/* Background Effects */}
         <div className="bg-pattern">
@@ -22,6 +22,8 @@ function App() {
           <Route path="/competences" element={<Competences />} />
           <Route path="/projets" element={<Projets />} />
           <Route path="/contact" element={<Contact />} />
+          {/* Catch-all redirects to home */}
+          <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </div>
     </Router>
